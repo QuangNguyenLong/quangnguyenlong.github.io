@@ -1,0 +1,394 @@
+HTTP/2
+STRATERGY: 3
+0
+RENDERING
+Segment: 1
+1 1 1 1 1 1 1 1 1 1 
+[REQUEST 0]	Took: 24 ms	Avg. speed: 23130438 Bytes/s
+[REQUEST 1]	Took: 35 ms	Avg. speed: 15669740 Bytes/s
+[REQUEST 2]	Took: 15 ms	Avg. speed: 19151551 Bytes/s
+[REQUEST 3]	Took: 55 ms	Avg. speed: 7127629 Bytes/s
+[REQUEST 4]	Took: 68 ms	Avg. speed: 8039785 Bytes/s
+[REQUEST 5]	Took: 84 ms	Avg. speed: 6599110 Bytes/s
+[REQUEST 6]	Took: 37 ms	Avg. speed: 7458379 Bytes/s
+[REQUEST 7]	Took: 53 ms	Avg. speed: 7412260 Bytes/s
+[REQUEST 8]	Took: 70 ms	Avg. speed: 7797052 Bytes/s
+[REQUEST 9]	Took: 69 ms	Avg. speed: 8059589 Bytes/s
+[TOTAL] 510 ms
+Segment: 2|Predicted bandwidth: 9117433.000000 bytes/s
+2 3 3 3 2 2 2 2 2 2 
+[REQUEST 0]	Took: 135 ms	Avg. speed: 7360626 Bytes/s
+[REQUEST 1]	Took: 207 ms	Avg. speed: 7062796 Bytes/s
+[REQUEST 2]	Took: 88 ms	Avg. speed: 7947476 Bytes/s
+[REQUEST 3]	Took: 117 ms	Avg. speed: 8309693 Bytes/s
+[REQUEST 4]	Took: 123 ms	Avg. speed: 8076778 Bytes/s
+[REQUEST 5]	Took: 100 ms	Avg. speed: 8811814 Bytes/s
+[REQUEST 6]	Took: 52 ms	Avg. speed: 8291252 Bytes/s
+[REQUEST 7]	Took: 72 ms	Avg. speed: 8683340 Bytes/s
+[REQUEST 8]	Took: 117 ms	Avg. speed: 8502945 Bytes/s
+[REQUEST 9]	Took: 112 ms	Avg. speed: 7811824 Bytes/s
+[TOTAL] 1123 ms
+Segment: 3|Predicted bandwidth: 8049600.500000 bytes/s
+2 2 2 3 2 2 2 2 2 2 
+[REQUEST 0]	Took: 133 ms	Avg. speed: 7657765 Bytes/s
+[REQUEST 1]	Took: 116 ms	Avg. speed: 7635916 Bytes/s
+[REQUEST 2]	Took: 51 ms	Avg. speed: 8072104 Bytes/s
+[REQUEST 3]	Took: 105 ms	Avg. speed: 8888926 Bytes/s
+[REQUEST 4]	Took: 135 ms	Avg. speed: 7553954 Bytes/s
+[REQUEST 5]	Took: 104 ms	Avg. speed: 8466431 Bytes/s
+[REQUEST 6]	Took: 66 ms	Avg. speed: 6348782 Bytes/s
+[REQUEST 7]	Took: 72 ms	Avg. speed: 8369677 Bytes/s
+[REQUEST 8]	Took: 135 ms	Avg. speed: 7532982 Bytes/s
+[REQUEST 9]	Took: 106 ms	Avg. speed: 8283946 Bytes/s
+[TOTAL] 1023 ms
+Segment: 4|Predicted bandwidth: 7819352.000000 bytes/s
+2 2 2 2 2 2 2 2 2 2 
+[REQUEST 0]	Took: 129 ms	Avg. speed: 7880294 Bytes/s
+[REQUEST 1]	Took: 107 ms	Avg. speed: 8044225 Bytes/s
+[REQUEST 2]	Took: 48 ms	Avg. speed: 8761833 Bytes/s
+[REQUEST 3]	Took: 74 ms	Avg. speed: 8331614 Bytes/s
+[REQUEST 4]	Took: 122 ms	Avg. speed: 8274762 Bytes/s
+[REQUEST 5]	Took: 100 ms	Avg. speed: 8656299 Bytes/s
+[REQUEST 6]	Took: 52 ms	Avg. speed: 8035780 Bytes/s
+[REQUEST 7]	Took: 82 ms	Avg. speed: 7521960 Bytes/s
+[REQUEST 8]	Took: 134 ms	Avg. speed: 7545183 Bytes/s
+[REQUEST 9]	Took: 101 ms	Avg. speed: 8639682 Bytes/s
+[TOTAL] 949 ms
+Segment: 5|Predicted bandwidth: 8147254.500000 bytes/s
+2 2 2 3 2 2 2 2 2 2 
+[REQUEST 0]	Took: 119 ms	Avg. speed: 8553659 Bytes/s
+[REQUEST 1]	Took: 104 ms	Avg. speed: 8269368 Bytes/s
+[REQUEST 2]	Took: 52 ms	Avg. speed: 8267911 Bytes/s
+[REQUEST 3]	Took: 104 ms	Avg. speed: 8762632 Bytes/s
+[REQUEST 4]	Took: 116 ms	Avg. speed: 8811065 Bytes/s
+[REQUEST 5]	Took: 91 ms	Avg. speed: 9338496 Bytes/s
+[REQUEST 6]	Took: 52 ms	Avg. speed: 8265206 Bytes/s
+[REQUEST 7]	Took: 64 ms	Avg. speed: 9198057 Bytes/s
+[REQUEST 8]	Took: 108 ms	Avg. speed: 9413593 Bytes/s
+[REQUEST 9]	Took: 97 ms	Avg. speed: 8920628 Bytes/s
+[TOTAL] 907 ms
+Segment: 6|Predicted bandwidth: 8760236.000000 bytes/s
+2 2 2 2 2 3 3 2 2 2 
+[REQUEST 0]	Took: 118 ms	Avg. speed: 8411799 Bytes/s
+[REQUEST 1]	Took: 99 ms	Avg. speed: 8574603 Bytes/s
+[REQUEST 2]	Took: 65 ms	Avg. speed: 6762702 Bytes/s
+[REQUEST 3]	Took: 70 ms	Avg. speed: 9455560 Bytes/s
+[REQUEST 4]	Took: 105 ms	Avg. speed: 9490307 Bytes/s
+[REQUEST 5]	Took: 179 ms	Avg. speed: 7882346 Bytes/s
+[REQUEST 6]	Took: 72 ms	Avg. speed: 9752566 Bytes/s
+[REQUEST 7]	Took: 72 ms	Avg. speed: 9326612 Bytes/s
+[REQUEST 8]	Took: 104 ms	Avg. speed: 9518765 Bytes/s
+[REQUEST 9]	Took: 89 ms	Avg. speed: 9543750 Bytes/s
+[TOTAL] 973 ms
+Segment: 7|Predicted bandwidth: 8764535.000000 bytes/s
+2 2 2 2 2 3 2 3 2 2 
+[REQUEST 0]	Took: 115 ms	Avg. speed: 8263075 Bytes/s
+[REQUEST 1]	Took: 107 ms	Avg. speed: 8294723 Bytes/s
+[REQUEST 2]	Took: 59 ms	Avg. speed: 7392156 Bytes/s
+[REQUEST 3]	Took: 72 ms	Avg. speed: 8787450 Bytes/s
+[REQUEST 4]	Took: 97 ms	Avg. speed: 9790965 Bytes/s
+[REQUEST 5]	Took: 167 ms	Avg. speed: 8842786 Bytes/s
+[REQUEST 6]	Took: 49 ms	Avg. speed: 9144380 Bytes/s
+[REQUEST 7]	Took: 104 ms	Avg. speed: 9289288 Bytes/s
+[REQUEST 8]	Took: 97 ms	Avg. speed: 9798043 Bytes/s
+[REQUEST 9]	Took: 101 ms	Avg. speed: 8746113 Bytes/s
+[TOTAL] 968 ms
+Segment: 8|Predicted bandwidth: 8777451.000000 bytes/s
+2 2 2 2 2 2 2 3 2 3 
+[REQUEST 0]	Took: 98 ms	Avg. speed: 10157236 Bytes/s
+[REQUEST 1]	Took: 93 ms	Avg. speed: 9511758 Bytes/s
+[REQUEST 2]	Took: 59 ms	Avg. speed: 7754804 Bytes/s
+[REQUEST 3]	Took: 74 ms	Avg. speed: 8698163 Bytes/s
+[REQUEST 4]	Took: 108 ms	Avg. speed: 9268929 Bytes/s
+[REQUEST 5]	Took: 102 ms	Avg. speed: 8643598 Bytes/s
+[REQUEST 6]	Took: 56 ms	Avg. speed: 8169256 Bytes/s
+[REQUEST 7]	Took: 114 ms	Avg. speed: 8711244 Bytes/s
+[REQUEST 8]	Took: 116 ms	Avg. speed: 8629045 Bytes/s
+[REQUEST 9]	Took: 178 ms	Avg. speed: 8271432 Bytes/s
+[TOTAL] 998 ms
+Segment: 9|Predicted bandwidth: 8733060.000000 bytes/s
+2 2 2 2 2 2 2 2 2 3 
+[REQUEST 0]	Took: 120 ms	Avg. speed: 8657751 Bytes/s
+[REQUEST 1]	Took: 102 ms	Avg. speed: 8574625 Bytes/s
+[REQUEST 2]	Took: 62 ms	Avg. speed: 7411817 Bytes/s
+[REQUEST 3]	Took: 68 ms	Avg. speed: 9004238 Bytes/s
+[REQUEST 4]	Took: 113 ms	Avg. speed: 9282640 Bytes/s
+[REQUEST 5]	Took: 119 ms	Avg. speed: 7352409 Bytes/s
+[REQUEST 6]	Took: 72 ms	Avg. speed: 6351240 Bytes/s
+[REQUEST 7]	Took: 92 ms	Avg. speed: 6673400 Bytes/s
+[REQUEST 8]	Took: 153 ms	Avg. speed: 6820990 Bytes/s
+[REQUEST 9]	Took: 224 ms	Avg. speed: 6471206 Bytes/s
+[TOTAL] 1125 ms
+Segment: 10|Predicted bandwidth: 7517225.000000 bytes/s
+2 2 2 2 1 2 2 2 2 2 
+[REQUEST 0]	Took: 161 ms	Avg. speed: 6353642 Bytes/s
+[REQUEST 1]	Took: 133 ms	Avg. speed: 6634751 Bytes/s
+[REQUEST 2]	Took: 88 ms	Avg. speed: 5193870 Bytes/s
+[REQUEST 3]	Took: 93 ms	Avg. speed: 5972155 Bytes/s
+[REQUEST 4]	Took: 86 ms	Avg. speed: 6880294 Bytes/s
+[REQUEST 5]	Took: 120 ms	Avg. speed: 7322001 Bytes/s
+[REQUEST 6]	Took: 65 ms	Avg. speed: 7069273 Bytes/s
+[REQUEST 7]	Took: 77 ms	Avg. speed: 7225312 Bytes/s
+[REQUEST 8]	Took: 151 ms	Avg. speed: 6769141 Bytes/s
+[REQUEST 9]	Took: 136 ms	Avg. speed: 6456243 Bytes/s
+[TOTAL] 1110 ms
+Segment: 1|Predicted bandwidth: 6525349.000000 bytes/s
+2 2 2 1 1 1 1 2 2 2 
+[REQUEST 0]	Took: 142 ms	Avg. speed: 6598617 Bytes/s
+[REQUEST 1]	Took: 144 ms	Avg. speed: 6110581 Bytes/s
+[REQUEST 2]	Took: 92 ms	Avg. speed: 4604613 Bytes/s
+[REQUEST 3]	Took: 68 ms	Avg. speed: 5849547 Bytes/s
+[REQUEST 4]	Took: 85 ms	Avg. speed: 6378642 Bytes/s
+[REQUEST 5]	Took: 80 ms	Avg. speed: 6891225 Bytes/s
+[REQUEST 6]	Took: 46 ms	Avg. speed: 6032689 Bytes/s
+[REQUEST 7]	Took: 110 ms	Avg. speed: 5210393 Bytes/s
+[REQUEST 8]	Took: 154 ms	Avg. speed: 6101037 Bytes/s
+[REQUEST 9]	Took: 139 ms	Avg. speed: 6290647 Bytes/s
+[TOTAL] 1060 ms
+Segment: 2|Predicted bandwidth: 5932007.000000 bytes/s
+2 2 2 2 1 1 1 1 1 1 
+[REQUEST 0]	Took: 143 ms	Avg. speed: 6957102 Bytes/s
+[REQUEST 1]	Took: 138 ms	Avg. speed: 6337469 Bytes/s
+[REQUEST 2]	Took: 64 ms	Avg. speed: 6765910 Bytes/s
+[REQUEST 3]	Took: 84 ms	Avg. speed: 7398103 Bytes/s
+[REQUEST 4]	Took: 85 ms	Avg. speed: 6826283 Bytes/s
+[REQUEST 5]	Took: 78 ms	Avg. speed: 7094257 Bytes/s
+[REQUEST 6]	Took: 51 ms	Avg. speed: 5556726 Bytes/s
+[REQUEST 7]	Took: 76 ms	Avg. speed: 5625808 Bytes/s
+[REQUEST 8]	Took: 96 ms	Avg. speed: 6058538 Bytes/s
+[REQUEST 9]	Took: 83 ms	Avg. speed: 6637083 Bytes/s
+[TOTAL] 898 ms
+Segment: 3|Predicted bandwidth: 6470857.500000 bytes/s
+1 2 2 2 2 2 2 1 1 1 
+[REQUEST 0]	Took: 92 ms	Avg. speed: 6486040 Bytes/s
+[REQUEST 1]	Took: 120 ms	Avg. speed: 7332317 Bytes/s
+[REQUEST 2]	Took: 75 ms	Avg. speed: 5585595 Bytes/s
+[REQUEST 3]	Took: 80 ms	Avg. speed: 7510752 Bytes/s
+[REQUEST 4]	Took: 115 ms	Avg. speed: 8833342 Bytes/s
+[REQUEST 5]	Took: 99 ms	Avg. speed: 8895222 Bytes/s
+[REQUEST 6]	Took: 55 ms	Avg. speed: 7525806 Bytes/s
+[REQUEST 7]	Took: 55 ms	Avg. speed: 7581674 Bytes/s
+[REQUEST 8]	Took: 81 ms	Avg. speed: 7389888 Bytes/s
+[REQUEST 9]	Took: 64 ms	Avg. speed: 8617703 Bytes/s
+[TOTAL] 836 ms
+Segment: 4|Predicted bandwidth: 7437737.500000 bytes/s
+2 2 2 2 2 2 2 2 2 1 
+[REQUEST 0]	Took: 115 ms	Avg. speed: 8863246 Bytes/s
+[REQUEST 1]	Took: 102 ms	Avg. speed: 8412595 Bytes/s
+[REQUEST 2]	Took: 53 ms	Avg. speed: 7915552 Bytes/s
+[REQUEST 3]	Took: 71 ms	Avg. speed: 8657881 Bytes/s
+[REQUEST 4]	Took: 116 ms	Avg. speed: 8730628 Bytes/s
+[REQUEST 5]	Took: 148 ms	Avg. speed: 5857131 Bytes/s
+[REQUEST 6]	Took: 72 ms	Avg. speed: 5801815 Bytes/s
+[REQUEST 7]	Took: 104 ms	Avg. speed: 5915226 Bytes/s
+[REQUEST 8]	Took: 165 ms	Avg. speed: 6133142 Bytes/s
+[REQUEST 9]	Took: 108 ms	Avg. speed: 5030323 Bytes/s
+[TOTAL] 1054 ms
+Segment: 5|Predicted bandwidth: 6839666.500000 bytes/s
+1 2 2 2 2 2 2 2 1 2 
+[REQUEST 0]	Took: 108 ms	Avg. speed: 5330984 Bytes/s
+[REQUEST 1]	Took: 140 ms	Avg. speed: 6140385 Bytes/s
+[REQUEST 2]	Took: 96 ms	Avg. speed: 4453825 Bytes/s
+[REQUEST 3]	Took: 98 ms	Avg. speed: 6029195 Bytes/s
+[REQUEST 4]	Took: 166 ms	Avg. speed: 6110579 Bytes/s
+[REQUEST 5]	Took: 136 ms	Avg. speed: 6309478 Bytes/s
+[REQUEST 6]	Took: 73 ms	Avg. speed: 5894628 Bytes/s
+[REQUEST 7]	Took: 112 ms	Avg. speed: 5252966 Bytes/s
+[REQUEST 8]	Took: 112 ms	Avg. speed: 5163175 Bytes/s
+[REQUEST 9]	Took: 159 ms	Avg. speed: 5365086 Bytes/s
+[TOTAL] 1200 ms
+Segment: 6|Predicted bandwidth: 5546154.500000 bytes/s
+1 1 1 1 1 2 2 2 1 1 
+[REQUEST 0]	Took: 102 ms	Avg. speed: 5746361 Bytes/s
+[REQUEST 1]	Took: 111 ms	Avg. speed: 4795613 Bytes/s
+[REQUEST 2]	Took: 93 ms	Avg. speed: 3026855 Bytes/s
+[REQUEST 3]	Took: 140 ms	Avg. speed: 3346871 Bytes/s
+[REQUEST 4]	Took: 175 ms	Avg. speed: 3337008 Bytes/s
+[REQUEST 5]	Took: 261 ms	Avg. speed: 3243228 Bytes/s
+[REQUEST 6]	Took: 132 ms	Avg. speed: 3297926 Bytes/s
+[REQUEST 7]	Took: 198 ms	Avg. speed: 3383949 Bytes/s
+[REQUEST 8]	Took: 162 ms	Avg. speed: 3597985 Bytes/s
+[REQUEST 9]	Took: 148 ms	Avg. speed: 3587256 Bytes/s
+[TOTAL] 1522 ms
+Segment: 7|Predicted bandwidth: 3603414.750000 bytes/s
+1 1 1 1 1 1 1 1 1 1 
+[REQUEST 0]	Took: 156 ms	Avg. speed: 3567727 Bytes/s
+[REQUEST 1]	Took: 165 ms	Avg. speed: 3351554 Bytes/s
+[REQUEST 2]	Took: 95 ms	Avg. speed: 3045855 Bytes/s
+[REQUEST 3]	Took: 119 ms	Avg. speed: 3664332 Bytes/s
+[REQUEST 4]	Took: 169 ms	Avg. speed: 3296527 Bytes/s
+[REQUEST 5]	Took: 103 ms	Avg. speed: 5365795 Bytes/s
+[REQUEST 6]	Took: 52 ms	Avg. speed: 5573476 Bytes/s
+[REQUEST 7]	Took: 84 ms	Avg. speed: 5210940 Bytes/s
+[REQUEST 8]	Took: 97 ms	Avg. speed: 5793202 Bytes/s
+[REQUEST 9]	Took: 97 ms	Avg. speed: 5682653 Bytes/s
+[TOTAL] 1137 ms
+Segment: 8|Predicted bandwidth: 4184964.750000 bytes/s
+1 1 1 1 1 1 1 1 1 1 
+[REQUEST 0]	Took: 116 ms	Avg. speed: 5058573 Bytes/s
+[REQUEST 1]	Took: 111 ms	Avg. speed: 4980525 Bytes/s
+[REQUEST 2]	Took: 52 ms	Avg. speed: 5650653 Bytes/s
+[REQUEST 3]	Took: 80 ms	Avg. speed: 5668928 Bytes/s
+[REQUEST 4]	Took: 101 ms	Avg. speed: 5859040 Bytes/s
+[REQUEST 5]	Took: 108 ms	Avg. speed: 5131440 Bytes/s
+[REQUEST 6]	Took: 71 ms	Avg. speed: 4128134 Bytes/s
+[REQUEST 7]	Took: 64 ms	Avg. speed: 7087270 Bytes/s
+[REQUEST 8]	Took: 77 ms	Avg. speed: 7682870 Bytes/s
+[REQUEST 9]	Took: 75 ms	Avg. speed: 7340400 Bytes/s
+[TOTAL] 855 ms
+Segment: 9|Predicted bandwidth: 5658922.500000 bytes/s
+1 1 1 1 1 1 2 2 1 2 
+[REQUEST 0]	Took: 84 ms	Avg. speed: 7196113 Bytes/s
+[REQUEST 1]	Took: 85 ms	Avg. speed: 6488548 Bytes/s
+[REQUEST 2]	Took: 52 ms	Avg. speed: 5908269 Bytes/s
+[REQUEST 3]	Took: 64 ms	Avg. speed: 6640034 Bytes/s
+[REQUEST 4]	Took: 86 ms	Avg. speed: 7012172 Bytes/s
+[REQUEST 5]	Took: 74 ms	Avg. speed: 7447345 Bytes/s
+[REQUEST 6]	Took: 71 ms	Avg. speed: 6548315 Bytes/s
+[REQUEST 7]	Took: 80 ms	Avg. speed: 7629370 Bytes/s
+[REQUEST 8]	Took: 81 ms	Avg. speed: 7483128 Bytes/s
+[REQUEST 9]	Took: 154 ms	Avg. speed: 5679843 Bytes/s
+[TOTAL] 831 ms
+Segment: 10|Predicted bandwidth: 6741718.000000 bytes/s
+2 2 2 1 1 1 2 1 2 2 
+[REQUEST 0]	Took: 175 ms	Avg. speed: 5831292 Bytes/s
+[REQUEST 1]	Took: 151 ms	Avg. speed: 5815592 Bytes/s
+[REQUEST 2]	Took: 96 ms	Avg. speed: 4737966 Bytes/s
+[REQUEST 3]	Took: 84 ms	Avg. speed: 4571717 Bytes/s
+[REQUEST 4]	Took: 108 ms	Avg. speed: 5509813 Bytes/s
+[REQUEST 5]	Took: 97 ms	Avg. speed: 5664950 Bytes/s
+[REQUEST 6]	Took: 96 ms	Avg. speed: 4753077 Bytes/s
+[REQUEST 7]	Took: 82 ms	Avg. speed: 4646401 Bytes/s
+[REQUEST 8]	Took: 149 ms	Avg. speed: 6887751 Bytes/s
+[REQUEST 9]	Took: 123 ms	Avg. speed: 7084528 Bytes/s
+[TOTAL] 1161 ms
+Segment: 1|Predicted bandwidth: 5425335.500000 bytes/s
+2 2 1 1 1 1 1 1 1 1 
+[REQUEST 0]	Took: 135 ms	Avg. speed: 6939381 Bytes/s
+[REQUEST 1]	Took: 140 ms	Avg. speed: 6265564 Bytes/s
+[REQUEST 2]	Took: 59 ms	Avg. speed: 4623842 Bytes/s
+[REQUEST 3]	Took: 67 ms	Avg. speed: 5886510 Bytes/s
+[REQUEST 4]	Took: 81 ms	Avg. speed: 6720465 Bytes/s
+[REQUEST 5]	Took: 81 ms	Avg. speed: 6843081 Bytes/s
+[REQUEST 6]	Took: 56 ms	Avg. speed: 4862381 Bytes/s
+[REQUEST 7]	Took: 75 ms	Avg. speed: 5317998 Bytes/s
+[REQUEST 8]	Took: 87 ms	Avg. speed: 6233445 Bytes/s
+[REQUEST 9]	Took: 80 ms	Avg. speed: 6884503 Bytes/s
+[TOTAL] 861 ms
+Segment: 2|Predicted bandwidth: 5937642.500000 bytes/s
+2 2 2 2 1 1 1 1 1 1 
+[REQUEST 0]	Took: 142 ms	Avg. speed: 6996579 Bytes/s
+[REQUEST 1]	Took: 126 ms	Avg. speed: 6992448 Bytes/s
+[REQUEST 2]	Took: 80 ms	Avg. speed: 5387950 Bytes/s
+[REQUEST 3]	Took: 104 ms	Avg. speed: 5993753 Bytes/s
+[REQUEST 4]	Took: 98 ms	Avg. speed: 5870085 Bytes/s
+[REQUEST 5]	Took: 78 ms	Avg. speed: 7117152 Bytes/s
+[REQUEST 6]	Took: 44 ms	Avg. speed: 6309260 Bytes/s
+[REQUEST 7]	Took: 71 ms	Avg. speed: 6131732 Bytes/s
+[REQUEST 8]	Took: 89 ms	Avg. speed: 6512520 Bytes/s
+[REQUEST 9]	Took: 58 ms	Avg. speed: 9425171 Bytes/s
+[TOTAL] 890 ms
+Segment: 3|Predicted bandwidth: 6533934.000000 bytes/s
+1 2 2 2 2 2 2 1 1 1 
+[REQUEST 0]	Took: 56 ms	Avg. speed: 10467073 Bytes/s
+[REQUEST 1]	Took: 92 ms	Avg. speed: 9578745 Bytes/s
+[REQUEST 2]	Took: 49 ms	Avg. speed: 8502718 Bytes/s
+[REQUEST 3]	Took: 56 ms	Avg. speed: 10783242 Bytes/s
+[REQUEST 4]	Took: 98 ms	Avg. speed: 10421416 Bytes/s
+[REQUEST 5]	Took: 86 ms	Avg. speed: 10158247 Bytes/s
+[REQUEST 6]	Took: 48 ms	Avg. speed: 8766838 Bytes/s
+[REQUEST 7]	Took: 49 ms	Avg. speed: 8460380 Bytes/s
+[REQUEST 8]	Took: 74 ms	Avg. speed: 7991319 Bytes/s
+[REQUEST 9]	Took: 64 ms	Avg. speed: 8624581 Bytes/s
+[TOTAL] 672 ms
+Segment: 4|Predicted bandwidth: 9276201.000000 bytes/s
+2 2 3 3 3 2 2 2 2 2 
+[REQUEST 0]	Took: 93 ms	Avg. speed: 10795477 Bytes/s
+[REQUEST 1]	Took: 80 ms	Avg. speed: 10789948 Bytes/s
+[REQUEST 2]	Took: 68 ms	Avg. speed: 9802509 Bytes/s
+[REQUEST 3]	Took: 101 ms	Avg. speed: 9489038 Bytes/s
+[REQUEST 4]	Took: 213 ms	Avg. speed: 8372388 Bytes/s
+[REQUEST 5]	Took: 99 ms	Avg. speed: 8756378 Bytes/s
+[REQUEST 6]	Took: 65 ms	Avg. speed: 6439519 Bytes/s
+[REQUEST 7]	Took: 80 ms	Avg. speed: 7722150 Bytes/s
+[REQUEST 8]	Took: 131 ms	Avg. speed: 7725214 Bytes/s
+[REQUEST 9]	Took: 97 ms	Avg. speed: 8885213 Bytes/s
+[TOTAL] 1027 ms
+Segment: 5|Predicted bandwidth: 8672020.000000 bytes/s
+2 2 2 3 2 3 2 2 2 2 
+[REQUEST 0]	Took: 105 ms	Avg. speed: 9719610 Bytes/s
+[REQUEST 1]	Took: 88 ms	Avg. speed: 9649681 Bytes/s
+[REQUEST 2]	Took: 66 ms	Avg. speed: 6520197 Bytes/s
+[REQUEST 3]	Took: 106 ms	Avg. speed: 8661783 Bytes/s
+[REQUEST 4]	Took: 111 ms	Avg. speed: 9127239 Bytes/s
+[REQUEST 5]	Took: 193 ms	Avg. speed: 7348670 Bytes/s
+[REQUEST 6]	Took: 56 ms	Avg. speed: 7624354 Bytes/s
+[REQUEST 7]	Took: 81 ms	Avg. speed: 7313572 Bytes/s
+[REQUEST 8]	Took: 123 ms	Avg. speed: 8282242 Bytes/s
+[REQUEST 9]	Took: 93 ms	Avg. speed: 9120789 Bytes/s
+[TOTAL] 1022 ms
+Segment: 6|Predicted bandwidth: 8201789.500000 bytes/s
+2 2 2 2 2 2 3 2 2 2 
+[REQUEST 0]	Took: 114 ms	Avg. speed: 8707862 Bytes/s
+[REQUEST 1]	Took: 95 ms	Avg. speed: 8934152 Bytes/s
+[REQUEST 2]	Took: 57 ms	Avg. speed: 7555354 Bytes/s
+[REQUEST 3]	Took: 76 ms	Avg. speed: 8802732 Bytes/s
+[REQUEST 4]	Took: 112 ms	Avg. speed: 8875724 Bytes/s
+[REQUEST 5]	Took: 102 ms	Avg. speed: 8308161 Bytes/s
+[REQUEST 6]	Took: 99 ms	Avg. speed: 7136910 Bytes/s
+[REQUEST 7]	Took: 75 ms	Avg. speed: 8871031 Bytes/s
+[REQUEST 8]	Took: 109 ms	Avg. speed: 9142081 Bytes/s
+[REQUEST 9]	Took: 99 ms	Avg. speed: 8488788 Bytes/s
+[TOTAL] 938 ms
+Segment: 7|Predicted bandwidth: 8433221.000000 bytes/s
+2 2 2 2 2 2 3 3 2 2 
+[REQUEST 0]	Took: 105 ms	Avg. speed: 9029198 Bytes/s
+[REQUEST 1]	Took: 96 ms	Avg. speed: 9228093 Bytes/s
+[REQUEST 2]	Took: 52 ms	Avg. speed: 8505777 Bytes/s
+[REQUEST 3]	Took: 73 ms	Avg. speed: 8688785 Bytes/s
+[REQUEST 4]	Took: 103 ms	Avg. speed: 9137379 Bytes/s
+[REQUEST 5]	Took: 97 ms	Avg. speed: 9181068 Bytes/s
+[REQUEST 6]	Took: 104 ms	Avg. speed: 6844050 Bytes/s
+[REQUEST 7]	Took: 109 ms	Avg. speed: 8913818 Bytes/s
+[REQUEST 8]	Took: 114 ms	Avg. speed: 8314709 Bytes/s
+[REQUEST 9]	Took: 101 ms	Avg. speed: 8786241 Bytes/s
+[TOTAL] 954 ms
+Segment: 8|Predicted bandwidth: 8602034.000000 bytes/s
+2 2 2 2 2 2 2 2 2 3 
+[REQUEST 0]	Took: 115 ms	Avg. speed: 8711818 Bytes/s
+[REQUEST 1]	Took: 100 ms	Avg. speed: 8827141 Bytes/s
+[REQUEST 2]	Took: 60 ms	Avg. speed: 7500183 Bytes/s
+[REQUEST 3]	Took: 79 ms	Avg. speed: 8159124 Bytes/s
+[REQUEST 4]	Took: 125 ms	Avg. speed: 8003523 Bytes/s
+[REQUEST 5]	Took: 103 ms	Avg. speed: 8565411 Bytes/s
+[REQUEST 6]	Took: 58 ms	Avg. speed: 7836317 Bytes/s
+[REQUEST 7]	Took: 79 ms	Avg. speed: 8220238 Bytes/s
+[REQUEST 8]	Took: 112 ms	Avg. speed: 8914936 Bytes/s
+[REQUEST 9]	Took: 180 ms	Avg. speed: 8143811 Bytes/s
+[TOTAL] 1011 ms
+Segment: 9|Predicted bandwidth: 8265247.000000 bytes/s
+2 2 2 2 2 2 2 3 2 2 
+[REQUEST 0]	Took: 122 ms	Avg. speed: 8530524 Bytes/s
+[REQUEST 1]	Took: 113 ms	Avg. speed: 7794829 Bytes/s
+[REQUEST 2]	Took: 57 ms	Avg. speed: 7994854 Bytes/s
+[REQUEST 3]	Took: 75 ms	Avg. speed: 8199978 Bytes/s
+[REQUEST 4]	Took: 123 ms	Avg. speed: 8444112 Bytes/s
+[REQUEST 5]	Took: 100 ms	Avg. speed: 8745802 Bytes/s
+[REQUEST 6]	Took: 62 ms	Avg. speed: 7407864 Bytes/s
+[REQUEST 7]	Took: 123 ms	Avg. speed: 7703285 Bytes/s
+[REQUEST 8]	Took: 134 ms	Avg. speed: 7780320 Bytes/s
+[REQUEST 9]	Took: 111 ms	Avg. speed: 7916550 Bytes/s
+[TOTAL] 1020 ms
+Segment: 10|Predicted bandwidth: 8032333.500000 bytes/s
+2 2 3 2 2 2 2 2 2 2 
+[REQUEST 0]	Took: 120 ms	Avg. speed: 8468906 Bytes/s
+[REQUEST 1]	Took: 103 ms	Avg. speed: 8565802 Bytes/s
+[REQUEST 2]	Took: 110 ms	Avg. speed: 6689262 Bytes/s
+[REQUEST 3]	Took: 69 ms	Avg. speed: 7932892 Bytes/s
+[REQUEST 4]	Took: 122 ms	Avg. speed: 8394213 Bytes/s
+[REQUEST 5]	Took: 109 ms	Avg. speed: 8060968 Bytes/s
+[REQUEST 6]	Took: 74 ms	Avg. speed: 6212748 Bytes/s
+[REQUEST 7]	Took: 78 ms	Avg. speed: 7069109 Bytes/s
+[REQUEST 8]	Took: 139 ms	Avg. speed: 7357265 Bytes/s
+[REQUEST 9]	Took: 110 ms	Avg. speed: 8021430 Bytes/s
+[TOTAL] 1034 ms
