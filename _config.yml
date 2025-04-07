@@ -25,7 +25,7 @@ navbar-links:
   # Projects: "https://github.com/quangnguyenlong"
   Projects:
     - PCPREP: "https://quangnguyenlong.github.io/pcprep/"
-    - DPC Subjective Test: "https://github.com/quangnguyenlong/DynamicPointCloudSubjectiveTest/"
+    - DPC Subjective Test: "https://quangnguyenlong.github.io/DynamicPointCloudSubjectiveTest/"
   About Me: "aboutme"
   # My failures: "failures"
   # Resources:
